@@ -1,0 +1,10 @@
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_9/homework/OperatorOverloadPractickalWork/bin/Debug/netcoreapp3.1/OperatorOverloadPractickalWork.deps.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_9/homework/OperatorOverloadPractickalWork/bin/Debug/netcoreapp3.1/OperatorOverloadPractickalWork.runtimeconfig.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_9/homework/OperatorOverloadPractickalWork/bin/Debug/netcoreapp3.1/OperatorOverloadPractickalWork.runtimeconfig.dev.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_9/homework/OperatorOverloadPractickalWork/bin/Debug/netcoreapp3.1/OperatorOverloadPractickalWork.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_9/homework/OperatorOverloadPractickalWork/bin/Debug/netcoreapp3.1/OperatorOverloadPractickalWork.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_9/homework/OperatorOverloadPractickalWork/obj/Debug/netcoreapp3.1/OperatorOverloadPractickalWork.csprojAssemblyReference.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_9/homework/OperatorOverloadPractickalWork/obj/Debug/netcoreapp3.1/OperatorOverloadPractickalWork.AssemblyInfoInputs.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_9/homework/OperatorOverloadPractickalWork/obj/Debug/netcoreapp3.1/OperatorOverloadPractickalWork.AssemblyInfo.cs
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_9/homework/OperatorOverloadPractickalWork/obj/Debug/netcoreapp3.1/OperatorOverloadPractickalWork.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_9/homework/OperatorOverloadPractickalWork/obj/Debug/netcoreapp3.1/OperatorOverloadPractickalWork.pdb

@@ -1,0 +1,13 @@
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_9/homework/ClassLibraryProjects/Day7(Tank)/obj/Debug/netcoreapp3.1/Day7(Tank).csprojAssemblyReference.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_9/homework/ClassLibraryProjects/Day7(Tank)/obj/Debug/netcoreapp3.1/Day7(Tank).AssemblyInfoInputs.cache
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_9/homework/ClassLibraryProjects/Day7(Tank)/obj/Debug/netcoreapp3.1/Day7(Tank).AssemblyInfo.cs
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_9/homework/ClassLibraryProjects/Day7(Tank)/bin/Debug/netcoreapp3.1/Day7(Tank).deps.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_9/homework/ClassLibraryProjects/Day7(Tank)/bin/Debug/netcoreapp3.1/Day7(Tank).runtimeconfig.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_9/homework/ClassLibraryProjects/Day7(Tank)/bin/Debug/netcoreapp3.1/Day7(Tank).runtimeconfig.dev.json
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_9/homework/ClassLibraryProjects/Day7(Tank)/bin/Debug/netcoreapp3.1/Day7(Tank).dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_9/homework/ClassLibraryProjects/Day7(Tank)/bin/Debug/netcoreapp3.1/Day7(Tank).pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_9/homework/ClassLibraryProjects/Day7(Tank)/bin/Debug/netcoreapp3.1/MyClassLib.dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_9/homework/ClassLibraryProjects/Day7(Tank)/bin/Debug/netcoreapp3.1/MyClassLib.pdb
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_9/homework/ClassLibraryProjects/Day7(Tank)/obj/Debug/netcoreapp3.1/Day7(Tank).csproj.CopyComplete
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_9/homework/ClassLibraryProjects/Day7(Tank)/obj/Debug/netcoreapp3.1/Day7(Tank).dll
+/Users/sanya/csharp_study/csharp_source/STEP_classwork/lesson_9/homework/ClassLibraryProjects/Day7(Tank)/obj/Debug/netcoreapp3.1/Day7(Tank).pdb
